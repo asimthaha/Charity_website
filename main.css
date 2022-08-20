@@ -1,0 +1,61 @@
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+main {
+    color: black;
+    padding: 50px 20px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.page1 {
+    background-image: url(./joel-muniz-A4Ax1ApccfA-unsplash.jpg);
+    background-repeat: no-repeat;
+    
+}
+.page2 {
+    background-image: url(./katt-yukawa-K0E6E0a0R3A-unsplash.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+.page3 {
+    background-image: url(./claudia-raya-ClEsjummC6w-unsplash.jpg);
+    background-repeat: no-repeat;
+    
+}
+.page4 {
+    background-image: url(./nico-smit-NFoerQuvzrs-unsplash.jpg);
+    background-repeat: no-repeat;
+    
+}
+.page5 {
+    background-image: url(./masjid-pogung-dalangan-cMyEvxr7Uzg-unsplash.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    margin: 0 !important;
+    padding: 20px 15px !important;
+    box-shadow: 1px 1px 6px 1px #bbb;
+}
+
+.nav_bar {
+    align-items: center;
+    justify-content: center;
+}
+
+.nav_bar a {
+    text-decoration: none;
+    color: #000;
+    padding: 50px;
+}
